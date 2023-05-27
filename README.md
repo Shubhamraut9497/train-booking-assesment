@@ -1,7 +1,7 @@
 # <div align="center">Train Booking</div>
 
 <div align="center">
-  <img src="https://i.imgur.com/o1JbekD.png" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Train_icon.svg/1775px-Train_icon.svg.png" />
 </div>
 
 Train Booking is a MERN stack application that allows users to book seat for a train. The app includes an attractive UI and multiple features.
@@ -22,7 +22,7 @@ Train Booking is a MERN stack application that allows users to book seat for a t
 
 ## Project Live On
 
-<a href="https://train-booking.netlify.app/](https://64721e53e9d703093c8e3dc1--aquamarine-sawine-f6a124.netlify.app/">Netlify</a>
+<a href="https://64721e53e9d703093c8e3dc1--aquamarine-sawine-f6a124.netlify.app/">Netlify</a>
 <br/>
 [![Netlify Status](https://api.netlify.com/api/v1/badges/0ebb70ef-091a-4b93-8420-9c74c3173a76/deploy-status)](https://app.netlify.com/sites/train-booking/deploys)
 
