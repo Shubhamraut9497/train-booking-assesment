@@ -1,7 +1,7 @@
 # <div align="center">Train Booking</div>
 
 <div align="center">
-  <img src="https://i.imgur.com/o1JbekD.png" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Train_icon.svg/1775px-Train_icon.svg.png" />
 </div>
 
 Train Booking is a MERN stack application that allows users to book seat for a train. The app includes an attractive UI and multiple features.
@@ -107,19 +107,8 @@ train-booking/
 
 <br/>
 
-<div align="center">
-<img src="https://komarev.com/ghpvc/?username=itsvaibhavmishra&&style=flat-square" align="center" />
-</div>
 
 <br/>
-
-<div align="center">
-            <a href="https://www.buymeacoffee.com/vaibhawmishra" target="_blank" style="display: inline-block;">
-                <img
-                    src="https://img.shields.io/badge/Donate-Buy%20Me%20A%20Coffee-orange.svg?style=flat-square&logo=buymeacoffee" 
-                    align="center"
-                />
-            </a></div>
 <br />
 
 ---
